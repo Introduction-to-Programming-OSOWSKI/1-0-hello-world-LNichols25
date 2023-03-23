@@ -5,7 +5,7 @@ Create a function called helloWorld() that returns "Hello World!".
 
 ## **Examples**  
 >helloWorld()  
-Hello World!
+Hello World
 
 ## **Limitations**  
 1 function
